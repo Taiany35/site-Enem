@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.cabeçalho{
+    background-color: #192480;
+    color: rgb(250, 242, 242);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 0;
+}
+.cabeçalho-lista-item{
+display: inline-block;
+margin: 0 20px;
+font-size: 20px;
+}
+
+.titulo1{
+color: #fcfafa;
+display: inline-block;
+font-size: 40px;
+margin: 0 5px;
+ }
+
+ .inicio-imagem{
+    width: 35%;
+ }
+
+ .inicio{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    padding: 24px;
+ }
+
+ .inicio-div-conteudo{
+    width: 35%;
+    font-size: 160%;
+    padding: 5%;
+    text-align: left;
+    justify-content: left;
+ }
+
+ .inicio-titulo{
+    margin: 10;
+ }
+
+ .logo-imagem{
+    width: 120px;
+ }
