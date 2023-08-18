@@ -2,50 +2,71 @@
     margin: 0;
     padding: 0;
 }
+
 .cabeçalho{
-    background-color: #192480;
-    color: rgb(250, 242, 242);
+    background-color: rgb(15, 15, 105);
+    color: rgb(237, 240, 243);
     display: flex;
     justify-content: space-around;
     align-items: center;
     padding: 20px 0;
 }
-.cabeçalho-lista-item{
-display: inline-block;
-margin: 0 20px;
-font-size: 20px;
+.imagem-cabeçalho{
+    width: 20%;
 }
-
-.titulo1{
-color: #fcfafa;
-display: inline-block;
-font-size: 40px;
-margin: 0 5px;
- }
-
- .inicio-imagem{
+.cabeçalho-lista-iten-1{
+    font-size: 60px;
+    align-items: normal;
+    margin: 0 20px;
+    display: inline-block;
+}
+.cabeçalho-lista-iten-2{
+    font-size: 60px;
+    align-items: normal;
+    margin: 0 20px;
+    justify-content: space-around;
+    display: inline-block;
+}
+.cabeçalho-lista{
+    padding: 10px 0;
+    margin: 0 25px ;
+}
+.itens-opçoes{
+    display:flex;
+    justify-content: space-around;
+    align-items: normal;
+}
+.titulo-opçoes{
+    text-align: center;
+    padding: 20px 0;
+}
+.corpo-texto{
+    background-color:rgb(127, 127, 248);
+}
+.imagem-1{
+    width: 25%;
+}
+.imagem-2{
+    width: 20%;
+}
+.imagem-3{
+    width: 24%;
+}
+.imagem-4{
+    width: 13%;
+}
+.imagens-opçoes{
+    display:flex;
+    justify-content: space-around;
+    align-items: normal;
+}
+.imagens{
+    background-color: rgb(127, 127, 248);
+    padding: 40px 0;
+}
+.foto-texto{
     width: 35%;
- }
-
- .inicio{
-    display: flex;
-    justify-content:center;
-    align-items: center;
-    padding: 24px;
- }
-
- .inicio-div-conteudo{
-    width: 35%;
-    font-size: 160%;
-    padding: 5%;
-    text-align: left;
-    justify-content: left;
- }
-
- .inicio-titulo{
-    margin: 10;
- }
-
- .logo-imagem{
-    width: 120px;
- }
+}
+.texto{
+    background-color: rgb(127, 127, 248);
+}
