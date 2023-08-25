@@ -41,8 +41,8 @@
     padding: 20px 0;
 }
 .corpo-texto{
-    background-color:rgb(127, 127, 248);
-}
+    background-color:rgb(87, 152, 212);
+ }
 .imagem-1{
     width: 25%;
 }
@@ -61,12 +61,38 @@
     align-items: normal;
 }
 .imagens{
-    background-color: rgb(127, 127, 248);
+    background-color:rgb(87, 152, 212);
     padding: 40px 0;
 }
 .foto-texto{
     width: 35%;
 }
 .texto{
-    background-color: rgb(127, 127, 248);
+    background-color:rgb(87, 152, 212);
+    display: flex;
+    justify-content: center;
+    padding: 35px 0;
+}
+.conjunto-texto{
+    width: 35%;
+}
+.titulo-texto{
+    padding: 24px 0;
+}
+.imagen-rodapé{
+    width: 15%;
+}
+.rodapé{
+    background-color:rgb(15, 15, 105);
+    color: white;
+    display: flex;
+    align-items: normal;
+    justify-content: space-around;
+    padding: 20px 0;
+    }
+.textos-rodapé-div{
+    width: 20%;
+}
+.titulo-texto-rodapé{
+    padding:24px 0;
 }
