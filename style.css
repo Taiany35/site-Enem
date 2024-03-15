@@ -32,7 +32,7 @@
 }
 
 .texto-pagina{
-    background-color: rgb(214, 165, 105);
+    background-color: rgb(248, 221, 187);
 }
 
 .titulo-texto-2{
@@ -40,20 +40,89 @@
     display: inline-block;
     padding: 20px 0;
     margin: 0 20px;   
+    
+}
+
+.texto-2{
+    margin: 0 20px;
+    font-size: 20px;
+    padding: 5px 0;
+    
 }
 
 .conteudo-2{
-    font-size: 20px;
-    display: inline-block;
-    padding: 20px 0;
-    margin: 0 20px;
- 
+    background-color: rgb(179, 87, 12);
+
 }
 
 .imagem-home{
-    width: 15%;
+    width: 20%;
+    margin: 8%;
+    padding: 10px 0;
 }
 
 .imagem-kids{
-    width: 25%;
+    width: 35%;
+    margin: 0 14%;
+    padding: 160px 0;
+}
+
+.texto-3{
+    margin: 0 20px;
+    font-size: 20px;
+}
+
+
+.titulo-texto-3{
+    font-size: 30px;
+    display: inline-block;
+    padding: 10px 0;
+    margin: 0 20px;   
+}
+
+.conteúdo-3{
+    background-color: rgb(243, 209, 168);
+}
+
+.titulo-texto-4{
+    font-size: 30px;
+    display: inline-block;
+    padding: 20px 0;
+    margin: 0 20px; 
+}
+
+.texto-4{
+    margin: 0 20px;
+    font-size: 20px;
+    }
+
+.conteudo-4{
+    background-color: rgb(179, 87, 12);
+}
+
+.ver-mais{
+    margin: 0 20px;
+    font-size: 15px;
+}
+
+.rodape-titulo{
+    font-size: 30px;
+    display: inline-block;
+    padding: 20px 0;
+    margin: 0 20px;
+    
+}
+
+.texto-rodape{
+    margin: 0 20px;
+    font-size: 20px;
+    
+}
+
+.rodape{
+background-color:  rgb(153, 76, 13);
+}
+
+.conteudo-5{
+    background-color:  rgb(243, 209, 168);
 }
