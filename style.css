@@ -32,7 +32,7 @@
 }
 
 .texto-pagina{
-    background-color: rgb(248, 221, 187);
+    background-color: rgb(228, 159, 76);
 }
 
 .titulo-texto-2{
@@ -51,7 +51,7 @@
 }
 
 .conteudo-2{
-    background-color: rgb(179, 87, 12);
+    background-color: rgb(228, 159, 76);
 
 }
 
@@ -81,7 +81,7 @@
 }
 
 .conteúdo-3{
-    background-color: rgb(243, 209, 168);
+    background-color: rgb(228, 159, 76);
 }
 
 .titulo-texto-4{
@@ -97,10 +97,15 @@
     }
 
 .conteudo-4{
-    background-color: rgb(179, 87, 12);
+    background-color:rgb(228, 159, 76);
 }
 
-.ver-mais{
+.ver-mais-4{
+    margin: 0 20px;
+    font-size: 15px;
+}
+
+.ver-mais-5{
     margin: 0 20px;
     font-size: 15px;
 }
@@ -108,7 +113,7 @@
 .rodape-titulo{
     font-size: 30px;
     display: inline-block;
-    padding: 20px 0;
+    padding: 5px 0;
     margin: 0 20px;
     
 }
@@ -116,6 +121,7 @@
 .texto-rodape{
     margin: 0 20px;
     font-size: 20px;
+    color: rgb(181, 181, 189);
     
 }
 
@@ -124,5 +130,94 @@ background-color:  rgb(153, 76, 13);
 }
 
 .conteudo-5{
-    background-color:  rgb(243, 209, 168);
+    background-color:  rgb(228, 159, 76);
+}
+
+.titulo-texto-5{
+    font-size: 30px;
+    display: inline-block;
+    padding: 20px 0;
+    margin: 0 20px; 
+}
+
+.texto-5{
+    margin: 0 20px;
+    font-size: 20px;
+}
+
+
+/*Pagina 2*/
+
+.titulo-2{
+    background-color: rgb(153, 76, 13);
+    color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+    padding: 35px 0;
+    font-size: 35px;
+}
+
+.imagem-pag2{
+    width: 45%;
+    margin: 0 330px;
+   padding: 50px 0;
+}
+
+.texto-pagina-2{
+    background-color: rgb(228, 159, 76);
+}
+
+.rodape-titulo-2{
+    font-size: 30px;
+    display: inline-block;
+    padding: 5px 0;
+    margin: 0 20px;
+}
+
+.texto-rodape-2{
+    margin: 0 20px;
+    font-size: 20px;
+    color: rgb(181, 181, 189);
+}
+
+.rodape-2{
+    background-color:  rgb(153, 76, 13);
+}
+
+/*Pagina 3*/
+
+.titulo-3{
+    background-color: rgb(153, 76, 13);
+    color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+    padding: 35px 0;
+    font-size: 35px;
+}
+
+.imagem-pag3{
+    width: 45%;
+    margin: 0 330px;
+   padding: 50px 0;
+}
+
+.texto-pagina-3{
+    background-color: rgb(228, 159, 76);
+}
+
+.rodape-titulo-3{
+    font-size: 30px;
+    display: inline-block;
+    padding: 5px 0;
+    margin: 0 20px;
+}
+
+.texto-rodape-3{
+    margin: 0 20px;
+    font-size: 20px;
+    color: rgb(181, 181, 189);
+}
+
+.rodape-3{
+    background-color:  rgb(153, 76, 13);
 }
