@@ -22,7 +22,7 @@
 
 .texto{
     margin: 0 20px;
-    font-size: 20px;
+    font-size: 22px;
 }
 
 .imagem-texto{
@@ -45,7 +45,7 @@
 
 .texto-2{
     margin: 0 20px;
-    font-size: 20px;
+    font-size: 22px;
     padding: 5px 0;
     
 }
@@ -53,6 +53,20 @@
 .conteudo-2{
     background-color: rgb(228, 159, 76);
 
+}
+
+.imagem-cafe{
+    width: 27%;
+    margin: 0 30px;
+    padding: 5px 0;
+}
+
+.imagem-paodequeijo{
+    width: 20%;
+}
+
+.imagem-capuccino{
+    width:20%   
 }
 
 .imagem-home{
@@ -64,12 +78,13 @@
 .imagem-kids{
     width: 35%;
     margin: 0 14%;
-    padding: 160px 0;
+    padding: 160px 0
+
 }
 
 .texto-3{
     margin: 0 20px;
-    font-size: 20px;
+    font-size: 22px;
 }
 
 
@@ -93,7 +108,7 @@
 
 .texto-4{
     margin: 0 20px;
-    font-size: 20px;
+    font-size: 25px;
     }
 
 .conteudo-4{
@@ -103,6 +118,12 @@
 .ver-mais-4{
     margin: 0 20px;
     font-size: 15px;
+}
+
+.imagem-emoji{
+    width: 8%;
+    margin: 0 2%;
+    padding: 8px 0
 }
 
 .ver-mais-5{
@@ -142,7 +163,7 @@ background-color:  rgb(153, 76, 13);
 
 .texto-5{
     margin: 0 20px;
-    font-size: 20px;
+    font-size: 25px;
 }
 
 
