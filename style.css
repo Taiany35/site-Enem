@@ -1,0 +1,312 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.titulo{
+    background-color: rgb(153, 76, 13);
+    color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+    padding: 35px 0;
+    font-size: 35px;
+}
+
+
+.titulo-texto{
+    font-size: 30px;
+    display: inline-block;
+    padding: 12px 0;
+    margin: 0 20px;
+
+}
+
+.titulo-objetivo{
+    font-size: 30px;
+}
+
+.texto{
+    font-size: 22px;
+}
+
+.imagem-texto{
+    width: 20%;
+    padding: 30px;
+}
+.texto-pagina{
+background-color: rgb(235, 191, 139);
+padding:0px -2em;}
+
+.texto-div-conteudo{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.titulo-texto-2{
+    font-size: 30px;
+    display: inline-block;
+    padding: 20px 0;
+    margin: 0 60px;   
+    
+}
+
+.texto-2{
+    margin: 0 60px;
+    font-size: 22px;
+    padding: 5px 0;
+    
+}
+
+.conteudo-2{
+    background-color: rgb(235, 191, 139);
+
+}
+
+.imagem-cafe{
+    width: 23%;
+    margin: 0 54px;
+    padding: 40px 0;
+}
+
+.imagem-paodequeijo{
+    width: 17%;
+    margin: 0 40px;
+    padding: 30px 0;
+}
+
+.imagem-capuccino{
+    width:7px 
+    margin: 0 40px ;
+    margin:0 40px;
+    padding:2% 0;
+    width:17%;
+}
+
+.imagem-home{
+    width: 15%;
+    margin: 5%;
+    padding: 10px 0;
+}
+
+.imagem-kids{
+    width: 26%;
+    margin: 0 6%;
+    padding: 150px 0
+
+}
+
+.imagem-espaço{
+    width: 15%;
+    margin: 4%;
+    padding: 2px 0;
+}
+
+.texto-3{
+    margin: 0 60px;
+    font-size: 22px;
+}
+
+
+.titulo-texto-3{
+    font-size: 30px;
+    display: inline-block;
+    padding: 25px 0;
+    margin: 0 60px;   
+}
+
+.conteúdo-3{
+    background-color:rgb(235, 191, 139);
+}
+
+.titulo-texto-4{
+    font-size: 30px;
+    display: inline-block;
+    padding: 20px 0;
+    margin: 0 60px; 
+}
+
+.texto-4{
+    margin: 0 60px;
+    font-size: 25px;
+    padding: 10px 0;
+    }
+
+.conteudo-4{
+    background-color:rgb(235, 191, 139);
+}
+
+.ver-mais-4{
+    margin: 0 20px;
+    font-size: 15px;
+}
+
+.imagem-cafe-em-graos{
+    width: 20%;
+    margin: 0 5%;
+    padding: 20px 0
+}
+
+
+.ver-mais-5{
+    margin: 0 20px;
+    font-size: 15px;
+
+}
+
+.logo-café{
+    width: 12%;
+    margin: 0 5%;
+    padding: 25px 0
+}
+
+
+.rodape-titulo{
+    font-size: 30px;
+    display: inline-block;
+    padding: 5px 0;
+    margin: 0 20px;
+    
+}
+
+.texto-rodape{
+    margin: 0 20px;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    
+}
+
+.rodape{
+background-color:  rgb(153, 76, 13);
+padding: 15px 0;
+}
+
+.conteudo-5{
+    background-color: rgb(235, 191, 139);
+}
+
+.titulo-texto-5{
+    font-size: 30px;
+    display: inline-block;
+    padding: 20px 0;
+    margin: 0 60px; 
+}
+
+.texto-5{
+    margin: 0 60px;
+    font-size: 25px;
+    
+}
+
+
+/*Pagina 2*/
+
+
+.titulo-2{
+    background-color: rgb(153, 76, 13);
+    color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+    padding: 35px 0;
+    font-size: 35px;
+}
+
+.titulo-2-2{
+    font-size: 30px;
+}
+
+.imagem-pag2{
+    width: 35%;
+    margin: 0 50px;
+   padding: 50px 0;
+}
+
+.imagem-pag2-2{
+    width: 35%;
+    margin: 0 50px;
+   padding: 50px 0;
+  
+}
+
+.texto-pagina-2{
+    background-color: rgb(235, 191, 139);
+}
+
+.div-texto-pagina-2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.div-texto-pagina-2-3{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.rodape-titulo-2{
+    font-size: 30px;
+    display: inline-block;
+    padding: 5px 0;
+    margin: 0 20px;
+}
+
+.texto-rodape-2{
+    margin: 0 20px;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+
+.rodape-2{
+    background-color:  rgb(153, 76, 13);
+    padding: 15px 0;
+}
+
+/*Pagina 3*/
+
+.titulo-3{
+    background-color: rgb(153, 76, 13);
+    color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+    padding: 35px 0;
+    font-size: 35px;
+}
+
+.titulo-3-3{
+font-size: 40px;
+}
+
+.imagem-pag3{
+    width: 40%;
+    margin: 0 28px;
+   padding: 50px 0;
+}
+
+.texto-pagina-3{
+    background-color: rgb(235, 191, 139);
+    padding: 70px 0;
+}
+
+.div-texto-pagina-3{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.rodape-titulo-3{
+    font-size: 30px;
+    display: inline-block;
+    padding: 5px 0;
+    margin: 0 20px;
+}
+
+.texto-rodape-3{
+    margin: 0 20px;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+
+.rodape-3{
+    background-color:  rgb(153, 76, 13);
+    padding: 15px 0;
+}
