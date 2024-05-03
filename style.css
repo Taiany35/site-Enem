@@ -25,6 +25,22 @@
     font-size: 30px;
 }
 
+input#barra {
+    padding: 0px 20px;
+      
+}
+
+.pesquisa{
+    background-color:rgb(235, 191, 139);
+    
+}
+
+.lupa{
+    width: 25px;
+    padding: 0 5px;
+
+}
+
 .texto{
     font-size: 22px;
 }
