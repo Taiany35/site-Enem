@@ -26,20 +26,21 @@
 }
 
 input#barra {
-    padding: 0px 20px;
-      
+    padding: 0px 25px;
+    margin: 12px 0;
 }
 
 .pesquisa{
     background-color:rgb(235, 191, 139);
+    padding: 0 20px;
     
 }
 
 .lupa{
-    width: 25px;
-    padding: 0 5px;
-
+    width: 20px;
+   padding: 0 10px;
 }
+
 
 .texto{
     font-size: 22px;
@@ -51,7 +52,8 @@ input#barra {
 }
 .texto-pagina{
 background-color: rgb(235, 191, 139);
-padding:0px -2em;}
+padding:0px -2em;
+}
 
 .texto-div-conteudo{
     display: flex;
@@ -182,6 +184,7 @@ padding:0px -2em;}
     display: inline-block;
     padding: 5px 0;
     margin: 0 20px;
+    color: rgb(255, 255, 255);
     
 }
 
@@ -265,6 +268,7 @@ padding: 15px 0;
     display: inline-block;
     padding: 5px 0;
     margin: 0 20px;
+    color:  rgb(255, 255, 255);
 }
 
 .texto-rodape-2{
@@ -314,6 +318,7 @@ font-size: 40px;
     display: inline-block;
     padding: 5px 0;
     margin: 0 20px;
+    color:  rgb(255, 255, 255);
 }
 
 .texto-rodape-3{
