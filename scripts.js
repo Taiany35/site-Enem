@@ -1,9 +1,7 @@
-function abrirNav(){
-    document.getElementById("menu").style.widht="250px";
-    document.getElementById("principal").style.marginLeft="250px";
-}
-
-function fecharNav(){
-    document.getElementById("menu").style.widht="0";
-    document.getElementById("principal").style.marginLeft="0";
+function inscrever(){
+    const width = 800;
+    const heigth = 600;
+    const left = (screen.width / 2) - (width / 2);
+    const top = (screen.heigth / 2) - (heigth / 2);
+    window.open('pagina4.html', 'pagamento', 'width=$(width), heigth=$(heigth), top=$(top), lefth')
 }
