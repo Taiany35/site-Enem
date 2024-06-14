@@ -189,12 +189,11 @@ padding:0px -2em;
     padding: 10px 0;
     }
 
-
-
     .botao{
         margin: 15px 60px;
         font-size: 15px;
-    
+        background-color: rgb(235, 5, 5);
+        color: aliceblue;
     }
     
     .conteudo-6{
@@ -214,6 +213,43 @@ padding:0px -2em;
         padding: 10px 0;
         }
 
+
+
+
+        .conteudo-7{
+            background-color: rgb(235, 191, 139);
+        }
+        
+        .titulo-texto-7{
+            font-size: 28px;
+            display: inline-block;
+            padding: 20px 0;
+            margin: 0 60px; 
+        }
+        
+        .texto-7{
+            margin: 0 60px;
+            font-size: 27px;
+            padding: 10px 0;
+            }
+
+            .botao-2{
+                margin: 15px 60px;
+                font-size: 15px;
+                background-color: rgb(235, 5, 5);
+                color: aliceblue;
+            }
+
+            .conteudo-8{
+                background-color: rgb(235, 191, 139);
+            }
+            
+            .titulo-texto-8{
+                font-size: 35px;
+                display: inline-block;
+                padding: 20px 0;
+                margin: 0 60px; 
+            }
 
 
 
@@ -341,6 +377,7 @@ font-size: 40px;
     justify-content: space-around;
     align-items: center;
 }
+
 .rodape-titulo-3{
     font-size: 30px;
     display: inline-block;
