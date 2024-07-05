@@ -94,8 +94,8 @@ padding:0px -2em;
 }
 
 .imagem-capuccino{
-    width:7px 
-    margin: 0 40px ;
+    width:7px;
+    margin:0 40px ;
     margin:0 40px;
     padding:2% 0;
     width:17%;
@@ -377,6 +377,23 @@ font-size: 40px;
     justify-content: space-around;
     align-items: center;
 }
+
+
+.p4{
+background-color: rgb(247, 174, 79);
+display: flex;
+align-items:center ;
+justify-content: center;
+min-height: 400px;
+flex-wrap: wrap;
+flex-direction: column;
+}
+
+.p5{
+    background-color: rgb(121, 71, 5);
+    color: aliceblue;  
+}
+
 
 .rodape-titulo-3{
     font-size: 30px;
