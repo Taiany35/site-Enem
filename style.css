@@ -413,3 +413,28 @@ flex-direction: column;
     background-color:  rgb(153, 76, 13);
     padding: 15px 0;
 }
+
+/*pagina6*/
+
+.titulo-6{
+    background-color: rgb(153, 76, 13);
+    color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+    padding: 35px 0;
+    font-size: 35px;
+}
+
+.pao{
+    width: 10%;
+}
+
+.div-texto-pagina-6{
+    padding: 25px 20px;
+    display: flex;
+}
+
+.torta{
+    width: 8%;
+}
+
